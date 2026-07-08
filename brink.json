@@ -1,0 +1,15 @@
+{
+    "version": "0.4.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/getbrink/brink/releases/download/v0.4.2/brink_0.4.2_windows_amd64.zip",
+            "bin": [
+                "brink.exe"
+            ],
+            "hash": "7d8a15a6a968209a24173cb2a19a6df5c764cd4e82af0f0664f3c2978cbc6701"
+        }
+    },
+    "homepage": "https://docs.getbrink.dev",
+    "license": "Apache-2.0",
+    "description": "Reliability control loop operator CLI for AI agents."
+}
