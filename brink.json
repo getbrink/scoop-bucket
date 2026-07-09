@@ -2,7 +2,7 @@
     "version": "0.4.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/getbrink/brink-releases/releases/download/v0.4.6/brink_0.4.6_windows_amd64.zip",
+            "url": "https://api.github.com/repos/getbrink/brink-releases/releases/assets/471450052#/brink_0.4.6_windows_amd64.zip",
             "bin": [
                 "brink.exe"
             ],
