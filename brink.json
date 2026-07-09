@@ -1,12 +1,12 @@
 {
-    "version": "0.4.3",
+    "version": "0.4.5",
     "architecture": {
         "64bit": {
-            "url": "https://api.github.com/repos/getbrink/brink/releases/assets/470817598#/brink_0.4.3_windows_amd64.zip",
+            "url": "https://github.com/getbrink/brink/releases/download/v0.4.5/brink_0.4.5_windows_amd64.zip",
             "bin": [
                 "brink.exe"
             ],
-            "hash": "08c3377b0068b9576e053de33d25eda958f556a0985783811a015adabac35a77"
+            "hash": "c5e78a31a74c96e01cb8088db782212af5ee39359990c5624ff84d8ee3850667"
         }
     },
     "homepage": "https://docs.getbrink.dev",
