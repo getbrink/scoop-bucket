@@ -10,6 +10,6 @@
         }
     },
     "homepage": "https://docs.getbrink.dev",
-    "license": "FSL-1.1-ALv2",
+    "license": "Apache-2.0",
     "description": "Reliability control loop operator CLI for AI agents."
 }
